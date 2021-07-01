@@ -1,2 +1,2 @@
 # Site_ecommerce
- Design in ecommerce website format. Responsive, modern design and user-friendly. Created in HTML5, CSS3, light JS retouching for page dynamics.
+ Pages in e-commerce website format. Responsive design, modern and easy to use. Created in HTML5, CSS3, light JS retouch for page dynamics.
